@@ -1,0 +1,13 @@
+# CMake
+https://cmake.org
+
+# OpenGL Libraries
+https://www.glfw.org/download.html
+
+# Setup GLFW in CodeBlock
+https://www.codeincodeblock.com/2011/02/setup-glfw-project-in-codeblock.html
+
+# Tutorials
+https://learnopengl.com
+https://docs.gl
+https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2
